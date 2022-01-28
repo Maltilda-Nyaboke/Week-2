@@ -67,9 +67,16 @@ button{
     height: 200px;
 }
 .four{
+    border: tomato;
+    border-style: 2px solid black;
     display: flex;
     justify-content: center;
     height: 800px;
     background-color: #252B42;
     /* opacity: 0.2; */
+}
+.four img{
+    margin-top: 80px;
+    padding: 30px;
+    height: 20%;
 }
