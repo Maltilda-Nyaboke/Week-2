@@ -60,7 +60,7 @@ button{
     padding: 20px;
     margin: 10px;
 }
-/* .three{
+.three{
     display: flex;
     justify-content: center;
     background-color: rgb(145, 145, 91);
@@ -70,4 +70,4 @@ button{
     height: 800px;
     background-color: #252B42;
     opacity: 0.2;
-} */
+}
