@@ -13,7 +13,7 @@
       background-size:cover;
       
     }
-  /* li{
+  li{
       display: inline;
       text-decoration: none;
 
@@ -60,7 +60,7 @@ button{
     padding: 20px;
     margin: 10px;
 }
-.three{
+/* .three{
     display: flex;
     justify-content: center;
     background-color: rgb(145, 145, 91);
