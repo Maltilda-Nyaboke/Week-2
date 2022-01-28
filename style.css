@@ -68,7 +68,8 @@ button{
 }
 .four{
     border: tomato;
-    border-style: 2px solid black;
+    border-width: 40px;
+    border-style: 10px solid orange;
     display: flex;
     justify-content: center;
     height: 800px;
