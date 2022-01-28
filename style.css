@@ -67,7 +67,9 @@ button{
     height: 200px;
 }
 .four{
+    display: flex;
+    justify-content: center;
     height: 800px;
     background-color: #252B42;
-    opacity: 0.2;
+    /* opacity: 0.2; */
 }
