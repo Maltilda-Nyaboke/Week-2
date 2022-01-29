@@ -185,13 +185,26 @@ button{
     border-radius: 5px;
 }
 .eight{
+    display: flex;
+    justify-content: space-evenly;
     height: 600px;
     background-color: whitesmoke;
 
 }
-.eight h2 p{
-    margin-top: 40px;
-        margin-left: 200px;
+.eight img{
+    height: 200px;
+    margin-top: 80px;
+}
+.nine{
+    margin-top: 80px;
+}
+/* .ten{
+    display: flex;
+    justify-content: space-evenly; */
+}
+.ten img{
+    height: 300px;
+    
 }
 footer{
     display: flex;
