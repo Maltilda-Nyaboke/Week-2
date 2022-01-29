@@ -66,11 +66,14 @@ button{
 }
 .three{
     display: flex;
-    justify-content: center;
-    background-color: rgb(145, 145, 91);
+    justify-content: space-evenly;
+    background-color:white;
     height: 200px;
+    align-items: center;
+    text-align: center;
 }
 .four{
+    
     border: tomato;
     border-width: 40px;
     border-style: 10px solid orange;
@@ -79,6 +82,9 @@ button{
     height: 500px;
     background-color: #252B42;
     /* opacity: 0.2; */
+}
+.four h2 p{
+    text-align: center;
 }
 .four img{
     margin-top: 80px;
@@ -118,7 +124,7 @@ button{
 }
 footer{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding: 10px;
 }
 .end{
