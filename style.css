@@ -69,6 +69,8 @@ button{
      font-size:  14px;
      margin-left: 780px;
      height: 40px;
+     position: relative;
+     bottom: 33px;
 }
 .two{
     display: flex;
@@ -76,10 +78,11 @@ button{
     background-color: whitesmoke;
 }
 .col{
-    border-style: solid;
+    background-color: turquoise;
     padding: 20px;
     margin: 10px;
-    margin-bottom: 120px;
+    position: relative;
+    bottom: 40px;
 }
 .three{
     display: flex;
@@ -148,7 +151,7 @@ button{
     justify-content: space-evenly;
     background-color: burlywood;
     height: 150px;
-    font-size: 30px;
+    font-size: 20px;
 }
 .six input{
     margin-left: 20px;
@@ -201,9 +204,12 @@ button{
 /* .ten{
     display: flex;
     justify-content: space-evenly; */
-}
-.ten img{
-    height: 300px;
+ .ten img{
+    height: 500px;
+    position: relative;
+bottom: 230px;
+left: 400px;
+
     
 }
 footer{
@@ -215,10 +221,10 @@ footer{
     display: flex;
     height: 50px;
     background-color: whitesmoke;
-    font-weight: bold;
+    font-weight: 400px;
     justify-content: space-evenly;
     margin-top: 50px;
 }
-.end img{
-
+.end p{
+margin-top: 20px;
 }
