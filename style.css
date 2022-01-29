@@ -94,3 +94,7 @@ button{
     background-color: burlywood;
     height: 100px;
 }
+.seven{
+    display: flex;
+    justify-content: center;
+}
