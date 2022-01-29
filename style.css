@@ -72,7 +72,7 @@ button{
     border-style: 10px solid orange;
     display: flex;
     justify-content: center;
-    height: 800px;
+    height: 500px;
     background-color: #252B42;
     /* opacity: 0.2; */
 }
@@ -80,4 +80,17 @@ button{
     margin-top: 80px;
     padding: 30px;
     height: 20%;
+}
+.five{
+    display: flex;
+    justify-content:center;
+    padding: 30px;
+}
+.five img{
+    height: 20px;
+    width: 50px;
+}
+.six{
+    background-color: burlywood;
+    height: 100px;
 }
