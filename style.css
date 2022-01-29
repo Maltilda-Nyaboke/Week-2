@@ -97,4 +97,9 @@ button{
 .seven{
     display: flex;
     justify-content: center;
+    padding: 50px;
+    margin: 30px;
+}
+.seven button{
+    margin: 0px;
 }
