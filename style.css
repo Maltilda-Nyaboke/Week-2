@@ -209,12 +209,14 @@ button{
 }
 .write{
     text-align: center;
-    margin-top: 20px;
-    background-color: whitesmoke;
+    position: relative;
+    top: 20px;
+    left: 500px;
 }
 .seven{
     display: flex;
     justify-content: space-evenly;
+   
     /* margin: 80px; */
     background-color: whitesmoke;
     height: 700px;
@@ -222,17 +224,24 @@ button{
 .card1{
     border-style: solid;
     border-radius: 12px;
+    position: relative;
+    top: 150px;
+    right: 180px;
     padding: 20px;
     margin: 10px;
     height: 450px;
+    width: 250px;
 }
 .card2{
     border-style: solid #23A6F0;
     border-width: 35px;
     border-radius: 12px;
+    position: relative;
+    top: 120px;
+    right: 179px;
     padding: 20px;
     margin: 10px;
-    height: 500px;
+    height: 480px;
     background-color: #252B42;
     color: white;
 }
@@ -240,6 +249,9 @@ button{
     border-style: solid;
     border-radius: 12px;
     padding: 20px;
+    position: relative;
+    top: 150px;
+    right: 275px;
     margin: 10px;
     height: 450px;
 }
@@ -271,6 +283,13 @@ bottom: 250px;
 left: 400px;
 
     
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    background-color: yellowgreen;
+    height: 400px;
+    width: 400px;
 }
 footer{
     display: flex;
