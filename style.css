@@ -245,12 +245,13 @@ button{
     border-radius: 12px;
     position: relative;
     top: 120px;
-    right: 179px;
+    right: 260px;
     padding: 20px;
     margin: 10px;
     height: 480px;
     background-color: #252B42;
     color: white;
+    width: 250px;
 }
 .card3{
     border-style: solid;
@@ -258,9 +259,10 @@ button{
     padding: 20px;
     position: relative;
     top: 150px;
-    right: 275px;
+    right: 340px;
     margin: 10px;
     height: 450px;
+    width: 250px;
 }
 .seven button{
     margin: 0px;
